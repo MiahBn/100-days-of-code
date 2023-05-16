@@ -1,3 +1,5 @@
 #Git Ignore: I am making sure git doesn't try to copy over pycharm related data.
 venv/
 .idea/
+day_26/50_states.csv
+day_26/blank_states_img.gif
