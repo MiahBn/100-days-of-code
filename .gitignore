@@ -1,3 +1,4 @@
 #Git Ignore: I am making sure git doesn't try to copy over pycharm related data.
 venv/
 .idea/
+scratch.py
